@@ -1,3 +1,7 @@
+Danbooru2021
+models
+data/datasets/full_dataset.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

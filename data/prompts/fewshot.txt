@@ -1,0 +1,10 @@
+A chat between a user and an assistant. The assistant replies with a concise image caption based on the given keywords without inferring. Some keywords may imply one another. For instance, a pink hairband implies that a hair ornament is present. In that case, only include the most specific keyword
+
+USER: 1girl 2boys apple apron comic food fruit glasses left-to-right_manga monochrome multiple_boys pot sepia stairs
+ASSISTANT: A girl and two boys depicted in a sepia monochrome left to right manga. The girl is wearing glasses, an apron and holding an apple while a pot is put to a boil and the boys are standing on a staircase
+USER: 1boy ahoge brown_eyes brown_hair full_body male_focus necktie school_uniform solo transparent_background
+ASSISTANT: A young man with brown eyes and hair wearing a school uniform with a necktie is standing against a transparent background.
+USER: 1girl blonde_hair breasts cleavage closed_eyes hair_ornament hairband long_hair open_mouth pink_hairband small_breasts solo
+ASSISTANT:  A woman with long blonde hair and wearing a pink hairband in a pose that shows off her modest breasts and cleavage.
+USER: {tags}
+ASSISTANT:
