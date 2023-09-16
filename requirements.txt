@@ -1,4 +1,3 @@
-datasets 
-sentencepiece
-transformers
-tensorboardX
+langchain
+notebook
+pandas

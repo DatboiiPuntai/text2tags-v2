@@ -1,7 +1,5 @@
-Danbooru2021
-models
-data/datasets/full_dataset.json
-outputs
+danbooru2021
+posts.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
